@@ -1,0 +1,14 @@
+{
+    "name": "fanhuil/test-project",
+    "description": "测试composer project类型",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "fanhuil",
+            "email": "fanhuilinl@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
